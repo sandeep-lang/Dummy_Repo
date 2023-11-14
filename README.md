@@ -1,2 +1,2 @@
 # Dummy_Repo
-sandeep kuar
+sandeep kuamar chitrala
